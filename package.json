@@ -1,0 +1,27 @@
+{
+  "name": "lybrary-management-system",
+  "version": "1.0.0",
+  "description": "This is a lybrary management API backend which is used for management of Users and books",
+  "homepage": "https://github.com/SAYAN-dev2905/lybrary-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/SAYAN-dev2905/lybrary-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAYAN-dev2905/lybrary-management-system.git"
+  },
+  "license": "ISC",
+  "author": "Sayan Chanak",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

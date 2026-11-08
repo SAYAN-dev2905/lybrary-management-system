@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": "12.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "2",
+      "name": "The Land Before Time",
+      "author": "Alan Moore",
+      "genre": "Fantasy",
+      "price": "12.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "3",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": "15.99",
+      "publisher": "Bloomsbury"
+    },
+    {
+      "id": "4",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": "10.50",
+      "publisher": "HarperOne"
+    },
+    {
+      "id": "5",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "price": "9.99",
+      "publisher": "Scribner"
+    },
+    {
+      "id": "6",
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "price": "18.99",
+      "publisher": "Avery"
+    },
+    {
+      "id": "7",
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": "22.99",
+      "publisher": "Allen & Unwin"
+    },
+    {
+      "id": "8",
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "genre": "Finance",
+      "price": "14.50",
+      "publisher": "Warner Books"
+    },
+    {
+      "id": "9",
+      "name": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "price": "11.99",
+      "publisher": "Dutton Books"
+    },
+    {
+      "id": "10",
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Thriller",
+      "price": "16.99",
+      "publisher": "Celadon Books"
+    }
+  ]
+}
