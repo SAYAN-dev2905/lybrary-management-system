@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "name": "John",
+      "Name": "John",
       "surname": "Doe",
       "email": "user@gmail.com",
       "issuedBook": "1",
@@ -13,7 +13,7 @@
     },
     {
       "id": "2",
-      "name": "Jane",
+      "Name": "Jane",
       "surname": "Doe",
       "email": "user@gmail.com",
       "issuedBook": "2",
@@ -24,7 +24,7 @@
     },
     {
       "id": "3",
-      "name": "Alice",
+      "Name": "Alice",
       "surname": "Smith",
       "email": "alice.smith@gmail.com",
       "issuedBook": "3",
@@ -35,7 +35,7 @@
     },
     {
       "id": "4",
-      "name": "Bob",
+      "Name": "Bob",
       "surname": "Johnson",
       "email": "bob.johnson@gmail.com",
       "issuedBook": "4",
@@ -46,7 +46,7 @@
     },
     {
       "id": "5",
-      "name": "Charlie",
+      "Name": "Charlie",
       "surname": "Brown",
       "email": "charlie.brown@gmail.com",
       "issuedBook": "5",
@@ -57,7 +57,7 @@
     },
     {
       "id": "6",
-      "name": "Diana",
+      "Name": "Diana",
       "surname": "Prince",
       "email": "diana.prince@gmail.com",
       "issuedBook": "6",

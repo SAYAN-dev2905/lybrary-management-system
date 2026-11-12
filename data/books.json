@@ -2,7 +2,7 @@
   "books": [
     {
       "id": "1",
-      "name": "The Hobbit",
+      "Name": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "genre": "Fantasy",
       "price": "12.99",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "The Land Before Time",
+      "Name": "The Land Before Time",
       "author": "Alan Moore",
       "genre": "Fantasy",
       "price": "12.99",
@@ -18,7 +18,7 @@
     },
     {
       "id": "3",
-      "name": "Harry Potter and the Philosopher's Stone",
+      "Name": "Harry Potter and the Philosopher's Stone",
       "author": "J.K. Rowling",
       "genre": "Fantasy",
       "price": "15.99",
@@ -26,7 +26,7 @@
     },
     {
       "id": "4",
-      "name": "The Alchemist",
+      "Name": "The Alchemist",
       "author": "Paulo Coelho",
       "genre": "Fiction",
       "price": "10.50",
@@ -34,7 +34,7 @@
     },
     {
       "id": "5",
-      "name": "The Great Gatsby",
+      "Name": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "genre": "Classic",
       "price": "9.99",
@@ -42,7 +42,7 @@
     },
     {
       "id": "6",
-      "name": "Atomic Habits",
+      "Name": "Atomic Habits",
       "author": "James Clear",
       "genre": "Self-Help",
       "price": "18.99",
@@ -50,7 +50,7 @@
     },
     {
       "id": "7",
-      "name": "The Lord of the Rings",
+      "Name": "The Lord of the Rings",
       "author": "J.R.R. Tolkien",
       "genre": "Fantasy",
       "price": "22.99",
@@ -58,7 +58,7 @@
     },
     {
       "id": "8",
-      "name": "Rich Dad Poor Dad",
+      "Name": "Rich Dad Poor Dad",
       "author": "Robert T. Kiyosaki",
       "genre": "Finance",
       "price": "14.50",
@@ -66,7 +66,7 @@
     },
     {
       "id": "9",
-      "name": "The Fault in Our Stars",
+      "Name": "The Fault in Our Stars",
       "author": "John Green",
       "genre": "Romance",
       "price": "11.99",
@@ -74,7 +74,7 @@
     },
     {
       "id": "10",
-      "name": "The Silent Patient",
+      "Name": "The Silent Patient",
       "author": "Alex Michaelides",
       "genre": "Thriller",
       "price": "16.99",
